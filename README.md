@@ -21,3 +21,8 @@ CGI reproduction of "The Postman" ad spot (https://youtu.be/AfsxkcfZ6Oo?si=iHOLg
 
 ![Animation Project](Img/Dog.png)
 
+## Credits
+This game was created by:
+- Alberto Cagnazzo
+- Giulio Arecco
+- Erika Astegiano
