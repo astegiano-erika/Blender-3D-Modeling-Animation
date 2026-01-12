@@ -1,6 +1,6 @@
 # Projects Overview
 
-As part of our university coursework, we undertook two interconnected projects centered around a common theme: dragons. These projects provided us with the opportunity to apply our knowledge in game development and 3D modeling.
+These two projects are centered around a common software: Blender. They provided us with the opportunity to apply our knowledge in animation and 3D modeling.
 
 ## Project 1: 3D Modeling
 
@@ -14,8 +14,10 @@ The 3D modeling project was developed in Blender, showcasing a visual scene set 
 
 ## Project 2: Animation
 
-CGI reproduction of "The Postman" ad spot (https://youtu.be/AfsxkcfZ6Oo?si=iHOLg7a5Z78WJUo4) produced in 3D Graphics in blender, with techniques like: 
-- Modeling and rigging 
+CGI reproduction of "The Postman" ad spot (https://youtu.be/AfsxkcfZ6Oo?si=iHOLg7a5Z78WJUo4) produced in Blender, with techniques like: 
+- Modeling
+- Rigging 
 - Animation of scenes with the usage of modern animation techniques
 
 ![Animation Project](Img/Dog.png)
+
